@@ -1,0 +1,11 @@
+{
+  "domain": "target",
+  "wordlists": [
+    "dns_1.txt",
+    "dns_2.txt",
+    "dns_3.txt"
+  ],
+  "resolvers_url": "https://raw.githubusercontent.com/trickest/resolvers/main/resolvers.txt",
+  "output_dir": "./output",
+  "subfinder_timeout": 600
+}
